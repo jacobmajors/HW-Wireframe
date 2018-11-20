@@ -1,0 +1,51 @@
+body {
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    font-size: 18px;
+    }
+    
+    header,
+    nav,
+    section,
+    article,
+    p,
+    aside,
+    footer {
+    padding: 25px;
+    border: 1px solid #fff;
+    margin: 10px;
+    }
+    
+    header,
+    nav,
+    section,
+    p,
+    aside,
+    footer {
+    background: #ebebeb;
+    color: #000;
+    }
+    
+    article {
+    background: #636161;
+    color: #fff;
+    }
+    
+    section,
+    aside {
+    width: 44%;
+    display: inline-table;
+    margin: 10px 2px;
+    }
+    
+    aside {
+    height: 280px;
+    }
+
+    h1 {
+    background: #ebebeb;
+    }
